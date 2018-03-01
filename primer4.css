@@ -79,7 +79,7 @@ ul.spisok li a{
 	text-decoration:none;
 }
 
-ul.spisok li a: hover {
+ul.spisok li a:hover {
 	text-decoration: underline;
 	color: #e459ef;
 	
